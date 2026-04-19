@@ -1,0 +1,15 @@
+# Awesome AI Media Skills 中文版
+
+> AI 视频与自媒体领域的 Claude Code 技能、MCP 服务器、AI Agent 能力精选合集。
+
+## 文档
+
+- [技能目录](https://github.com/JuneYaooo/awesome-ai-media-skills-cn/blob/main/README.md): 全部技能分类列表
+- [English Version](https://github.com/JuneYaooo/awesome-ai-media-skills/blob/main/README.md): 英文版
+
+## 分类
+
+- [视频生成技能](https://github.com/JuneYaooo/awesome-ai-media-skills-cn#视频生成技能): AI 视频生成 Agent 技能
+- [社媒运营 MCP 服务器](https://github.com/JuneYaooo/awesome-ai-media-skills-cn#社媒运营-mcp-服务器): 社媒 API MCP 服务器
+- [内容创作技能](https://github.com/JuneYaooo/awesome-ai-media-skills-cn#内容创作技能): 写作、脚本、内容工具
+- [视频处理技能](https://github.com/JuneYaooo/awesome-ai-media-skills-cn#视频处理技能): 编辑、字幕、处理
