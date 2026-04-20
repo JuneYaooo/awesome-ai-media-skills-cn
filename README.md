@@ -36,6 +36,7 @@
 |------|------|--------|-------|------|
 | [content-pipeline](https://github.com/OrangeViolin/content-pipeline) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/OrangeViolin/content-pipeline?style=flat-square) | 面向创作者的 Claude Code Skill，覆盖选题调研、写稿、排版、封面、配图、多平台改写与一键发布。 |
 | [social-media-skills](https://github.com/blacktwist/social-media-skills) | Claude Code | 🔧 需适配 | ![](https://img.shields.io/github/stars/blacktwist/social-media-skills?style=flat-square) | 社媒策略与文案技能集，覆盖受众上下文、内容日历、hook、thread、carousel、改写和复盘，默认偏向 X/LinkedIn 等文本平台。 |
+| [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Claude Code / ClawHub | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square) | 宝玉老师开源 Claude Code 技能集 — 小红书图文卡片、信息图（21 种布局 × 21 种风格）、SVG 图解、Markdown 转 HTML 等一整套内容生产技能。 |
 
 ## 视频处理技能
 
