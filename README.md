@@ -21,21 +21,27 @@
 
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
+| [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | Claude Code / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square) | 面向 AI Agent 的多模态创作技能库，封装 muapi-cli，可调用 100+ 图像、视频、音频模型，并支持通过 MCP 暴露为工具。 |
+| [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | MiniMax 官方 MCP 服务器，提供语音、图片、视频生成能力，附示例配置、测试和 Python 打包脚本。 |
 
 ## 社媒运营 MCP 服务器
 
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
+| [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | 面向 AI Agent 的社媒自动化 CLI，可连接 Postiz 执行排期、媒体上传和跨 28+ 平台发布；需自建服务并配置各平台凭证。 |
 
 ## 内容创作技能
 
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
+| [content-pipeline](https://github.com/OrangeViolin/content-pipeline) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/OrangeViolin/content-pipeline?style=flat-square) | 面向创作者的 Claude Code Skill，覆盖选题调研、写稿、排版、封面、配图、多平台改写与一键发布。 |
+| [social-media-skills](https://github.com/blacktwist/social-media-skills) | Claude Code | 🔧 需适配 | ![](https://img.shields.io/github/stars/blacktwist/social-media-skills?style=flat-square) | 社媒策略与文案技能集，覆盖受众上下文、内容日历、hook、thread、carousel、改写和复盘，默认偏向 X/LinkedIn 等文本平台。 |
 
 ## 视频处理技能
 
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
+| [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | 开源剪映/CapCut 自动化工具，向智能体提供草稿编辑、素材插入、特效、字幕和导出等视频处理能力。 |
 
 ---
 
