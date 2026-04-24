@@ -40,6 +40,7 @@
 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Claude Code / ClawHub | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square) | 宝玉老师开源 Claude Code 技能集 — 小红书图文卡片、信息图（21 种布局 × 21 种风格）、SVG 图解、Markdown 转 HTML 等一整套内容生产技能。 |
 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | Claude ​Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/KKKKhazix/khazix-skills?style=flat-square) | 「数字生命卡兹克」开源 AI 技能合集 — `khazix-writer` 公众号长文写作，复刻卡兹克"有见识的普通人"风格；`hv-analysis` 横纵分析法深度研究，输出排版精美的 PDF 报告。 |
 | [social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | Claude ​Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square) | 自媒体「找对标 → 拆爆款 → 套自己」三命令闭环，覆盖小红书/抖音/快手/视频号/B站 — 输入账号或选题方向，输出可直接发的下一条笔记初稿（标题 + 封面大字 + 首段 + CTA）。仓库自包含 tikhub HTTP CLI，开箱即用。 |
+| [servasyy_skills](https://github.com/huangserva/servasyy_skills) | Claude Code / Multi | ✅ 直接可用 | ![](https://img.shields.io/github/stars/huangserva/servasyy_skills?style=flat-square) | 中文多媒体内容生产技能集，覆盖写作、配图、播客、Remotion 视频制作、媒体下载和 Twitter 爬取，按目录交付 14 个可复用技能模块。 |
 
 ## 视频处理技能
 
