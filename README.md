@@ -22,6 +22,7 @@
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | Claude Code / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square) | 面向 AI Agent 的多模态创作技能库，封装 muapi-cli，可调用 100+ 图像、视频、音频模型，并支持通过 MCP 暴露为工具。 |
+| [Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) | Claude Code / OpenClaw / Codex | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/ZeroLu/Ultimate-AI-Media-Generator-Skill?style=flat-square) | 开源 AI 图片/视频生成 Skill，适配多平台 agent，内置工作流模板与提示词优化，但需配置 CyberBara API 与模型额度。 |
 | [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | MiniMax 官方 MCP 服务器，提供语音、图片、视频生成能力，附示例配置、测试和 Python 打包脚本。 |
 
 ## 社媒运营 MCP 服务器
@@ -40,6 +41,7 @@
 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Claude Code / ClawHub | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square) | 宝玉老师开源 Claude Code 技能集 — 小红书图文卡片、信息图（21 种布局 × 21 种风格）、SVG 图解、Markdown 转 HTML 等一整套内容生产技能。 |
 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | Claude ​Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/KKKKhazix/khazix-skills?style=flat-square) | 「数字生命卡兹克」开源 AI 技能合集 — `khazix-writer` 公众号长文写作，复刻卡兹克"有见识的普通人"风格；`hv-analysis` 横纵分析法深度研究，输出排版精美的 PDF 报告。 |
 | [social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | Claude ​Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square) | 自媒体「找对标 → 拆爆款 → 套自己」三命令闭环，覆盖小红书/抖音/快手/视频号/B站 — 输入账号或选题方向，输出可直接发的下一条笔记初稿（标题 + 封面大字 + 首段 + CTA）。仓库自包含 tikhub HTTP CLI，开箱即用。 |
+| [AmpliPost](https://github.com/AlanSong2077/Amplipost) | Claude Code / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/AlanSong2077/Amplipost?style=flat-square) | 基于多 Agent + xiaohongshu-mcp 的多平台内容营销中台，覆盖生成、审核、风控与发布，但需平台凭证和浏览器环境。 |
 | [servasyy_skills](https://github.com/huangserva/servasyy_skills) | Claude Code / Multi | ✅ 直接可用 | ![](https://img.shields.io/github/stars/huangserva/servasyy_skills?style=flat-square) | 中文多媒体内容生产技能集，覆盖写作、配图、播客、Remotion 视频制作、媒体下载和 Twitter 爬取，按目录交付 14 个可复用技能模块。 |
 
 ## 视频处理技能
