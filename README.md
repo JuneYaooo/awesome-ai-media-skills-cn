@@ -49,6 +49,7 @@
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
 | [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | 开源剪映/CapCut 自动化工具，向智能体提供草稿编辑、素材插入、特效、字幕和导出等视频处理能力。 |
+| [capcut-agent](https://github.com/qingpingwang/capcut-agent) | Claude Code / MCP | ✅ 直接可用 | ![](https://img.shields.io/github/stars/qingpingwang/capcut-agent?style=flat-square) | 基于 LangGraph + Flask 的剪映 AI 助手，提供对话式剪辑、素材库管理、SQLite 持久化和 FastMCP 工具接入，适合本地化视频制作工作流。 |
 
 ---
 
