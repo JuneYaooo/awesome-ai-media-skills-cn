@@ -31,6 +31,8 @@
 |------|------|--------|-------|------|
 | [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | 面向 AI Agent 的社媒自动化 CLI，可连接 Postiz 执行排期、媒体上传和跨 28+ 平台发布；需自建服务并配置各平台凭证。 |
 | [Douyin Upload MCP Skill](https://github.com/WJZ-P/douyin-upload-mcp-skill) | MCP Server / Skill | ✅ 直接可用 | ![](https://img.shields.io/github/stars/WJZ-P/douyin-upload-mcp-skill?style=flat-square) | 基于 CDP 的抖音创作者平台自动发布 MCP，支持视频/图文发布、扫码登录、短信校验、截图探测和浏览器托管，可被 OpenClaw 或任意 MCP 客户端调用。 |
+| [ShortVideo.AutoPublisher](https://github.com/dorisoy/ShortVideo.AutoPublisher) | — | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/dorisoy/ShortVideo.AutoPublisher?style=flat-square) | ShortVideo.AutoPublisher 是套实现，抖音，百家号，小红书，视频号，头条，等平台短视频自动发布的创作者工具。 |
+| [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
 
 ## 内容创作技能
 
@@ -43,6 +45,8 @@
 | [social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | Claude ​Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square) | 自媒体「找对标 → 拆爆款 → 套自己」三命令闭环，覆盖小红书/抖音/快手/视频号/B站 — 输入账号或选题方向，输出可直接发的下一条笔记初稿（标题 + 封面大字 + 首段 + CTA）。仓库自包含 tikhub HTTP CLI，开箱即用。 |
 | [AmpliPost](https://github.com/AlanSong2077/Amplipost) | Claude Code / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/AlanSong2077/Amplipost?style=flat-square) | 基于多 Agent + xiaohongshu-mcp 的多平台内容营销中台，覆盖生成、审核、风控与发布，但需平台凭证和浏览器环境。 |
 | [servasyy_skills](https://github.com/huangserva/servasyy_skills) | Claude Code / Multi | ✅ 直接可用 | ![](https://img.shields.io/github/stars/huangserva/servasyy_skills?style=flat-square) | 中文多媒体内容生产技能集，覆盖写作、配图、播客、Remotion 视频制作、媒体下载和 Twitter 爬取，按目录交付 14 个可复用技能模块。 |
+| [LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=flat-square) | 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型 |
+| [From-Zero-to-AGI](https://github.com/AI-mzq/From-Zero-to-AGI) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/AI-mzq/From-Zero-to-AGI?style=flat-square) | 从零走向AGI之路！！！旨在深入了解通用人工智能（AGI）的发展路径，从最基础的概念起，逐步构建完整的知识体系。涵盖AI Agent、RAG、MCP、具身智能、大语言模型、多模态、数字人、AI绘画、AI视频等！！ |
 
 ## 视频处理技能
 
