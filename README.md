@@ -33,6 +33,8 @@
 | [Douyin Upload MCP Skill](https://github.com/WJZ-P/douyin-upload-mcp-skill) | MCP Server / Skill | ✅ 直接可用 | ![](https://img.shields.io/github/stars/WJZ-P/douyin-upload-mcp-skill?style=flat-square) | 基于 CDP 的抖音创作者平台自动发布 MCP，支持视频/图文发布、扫码登录、短信校验、截图探测和浏览器托管，可被 OpenClaw 或任意 MCP 客户端调用。 |
 | [ShortVideo.AutoPublisher](https://github.com/dorisoy/ShortVideo.AutoPublisher) | — | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/dorisoy/ShortVideo.AutoPublisher?style=flat-square) | ShortVideo.AutoPublisher 是套实现，抖音，百家号，小红书，视频号，头条，等平台短视频自动发布的创作者工具。 |
 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
+| [xhs-mcp](https://github.com/Algovate/xhs-mcp) | MCP Server / CLI | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Algovate/xhs-mcp?style=flat-square) | 小红书 MCP 服务器与 CLI 工具，支持登录、发布、搜索、推荐等自动化操作。 |
+| [douyin-mcp-server](https://github.com/lancelin111/douyin-mcp-server) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/lancelin111/douyin-mcp-server?style=flat-square) | 抖音 MCP 服务器 — 通过 Model Context Protocol 实现视频自动上传与管理。 |
 
 ## 内容创作技能
 
