@@ -24,6 +24,7 @@
 | [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | Claude Code / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square) | 面向 AI Agent 的多模态创作技能库，封装 muapi-cli，可调用 100+ 图像、视频、音频模型，并支持通过 MCP 暴露为工具。 |
 | [Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) | Claude Code / OpenClaw / Codex | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/ZeroLu/Ultimate-AI-Media-Generator-Skill?style=flat-square) | 开源 AI 图片/视频生成 Skill，适配多平台 agent，内置工作流模板与提示词优化，但需配置 CyberBara API 与模型额度。 |
 | [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | MiniMax 官方 MCP 服务器，提供语音、图片、视频生成能力，附示例配置、测试和 Python 打包脚本。 |
+| [jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server) | MCP Server / Skill | ✅ 直接可用 | ![](https://img.shields.io/github/stars/wwwzhouhui/jimeng-mcp-server?style=flat-square) | 即梦 AI MCP 服务器，让 Claude、Cherry Studio 等 AI 应用直接调用即梦的 AI 视频/图片生成能力。 |
 
 ## 社媒运营 MCP 服务器
 
@@ -35,6 +36,7 @@
 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
 | [xhs-mcp](https://github.com/Algovate/xhs-mcp) | MCP Server / CLI | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Algovate/xhs-mcp?style=flat-square) | 小红书 MCP 服务器与 CLI 工具，支持登录、发布、搜索、推荐等自动化操作。 |
 | [douyin-mcp-server](https://github.com/lancelin111/douyin-mcp-server) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/lancelin111/douyin-mcp-server?style=flat-square) | 抖音 MCP 服务器 — 通过 Model Context Protocol 实现视频自动上传与管理。 |
+| [turbopush-mcp](https://github.com/xueyc1f/turbopush-mcp) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xueyc1f/turbopush-mcp?style=flat-square) | 多平台内容发布 MCP 服务器，打通 AI Agent 与抖音/小红书/B站/视频号等平台的内容分发通道。 |
 
 ## 内容创作技能
 
