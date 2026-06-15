@@ -39,6 +39,8 @@
 | [douyin-mcp-server](https://github.com/lancelin111/douyin-mcp-server) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/lancelin111/douyin-mcp-server?style=flat-square) | 抖音 MCP 服务器 — 通过 Model Context Protocol 实现视频自动上传与管理。 |
 | [turbopush-mcp](https://github.com/xueyc1f/turbopush-mcp) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xueyc1f/turbopush-mcp?style=flat-square) | 多平台内容发布 MCP 服务器，打通 AI Agent 与抖音/小红书/B站/视频号等平台的内容分发通道。 |
 | [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/luyike221/xiaohongshu-mcp-python?style=flat-square) | 小红书内容自动化发布 MCP Server，支持图文/视频发布、笔记管理、数据分析、定时发布，为 AI 客户端提供完整的小红书运营能力。 |
+| [yutu](https://github.com/eat-pray-ai/yutu) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square) | YouTube 频道自动驾驶 AI 工具包 — 自动选题、脚本生成、视频制作、SEO 优化、数据分析，一站式 YouTube 运营。 |
+| [chubbyskills](https://github.com/chubbyguan/chubbyskills) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chubbyguan/chubbyskills?style=flat-square) | 中文内容摄入 Skill — 将抖音/B站/小红书/微信公众号/X/播客等内容一键转为个人知识库。支持本地 LLM，数据不出境。 |
 
 ## 内容创作技能
 
