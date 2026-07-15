@@ -55,6 +55,8 @@
 | [servasyy_skills](https://github.com/huangserva/servasyy_skills) | Claude Code / Multi | ✅ 直接可用 | ![](https://img.shields.io/github/stars/huangserva/servasyy_skills?style=flat-square) | 中文多媒体内容生产技能集，覆盖写作、配图、播客、Remotion 视频制作、媒体下载和 Twitter 爬取，按目录交付 14 个可复用技能模块。 |
 | [LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=flat-square) | 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型 |
 | [From-Zero-to-AGI](https://github.com/AI-mzq/From-Zero-to-AGI) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/AI-mzq/From-Zero-to-AGI?style=flat-square) | 从零走向AGI之路！！！旨在深入了解通用人工智能（AGI）的发展路径，从最基础的概念起，逐步构建完整的知识体系。涵盖AI Agent、RAG、MCP、具身智能、大语言模型、多模态、数字人、AI绘画、AI视频等！！ |
+| [xhs-writer-skill](https://github.com/JuneYaooo/xhs-writer-skill) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/xhs-writer-skill?style=flat-square) | 小红书爆款笔记生成器 — 基于 GPT-Image-2，强力超快生成封面+标题+正文+话题标签，自然语言修改，一站出图，开箱即用。 |
+| [self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/self-media-compliance-review?style=flat-square) | 自媒体视频发布前违规风险审核 Skill — 结构化检查画面、声音、文字、封面、评论引导、带货信息、资质、授权、引流等平台常见风险，给出具体修改建议。不是敏感词表，是审核流程。 |
 
 ## 视频处理技能
 
