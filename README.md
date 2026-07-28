@@ -26,6 +26,7 @@
 | [MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat-square) | MiniMax 官方 MCP 服务器，提供语音、图片、视频生成能力，附示例配置、测试和 Python 打包脚本。 |
 | [jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server) | MCP Server / Skill | ✅ 直接可用 | ![](https://img.shields.io/github/stars/wwwzhouhui/jimeng-mcp-server?style=flat-square) | 即梦 AI MCP 服务器，让 Claude、Cherry Studio 等 AI 应用直接调用即梦的 AI 视频/图片生成能力。 |
 | [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/A-cat-with-carrots/OnlyShot?style=flat-square) | AI 短剧工业流水线 Claude Skill — 一句话生成剧本/分镜/分镜图/视频/剪辑五步完成，可产出发布到抖音红果的完整短剧。 |
+| [capsule-cinema](https://github.com/JuneYaooo/capsule-cinema) | Claude Code / Codex / OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/capsule-cinema?style=flat-square) | 可复用的 AI 视频生产配方集 — 分镜设计、视频生成、剪辑、字幕和质检的 Agent 工作流模板，支持 Codex / Claude Code / OpenClaw 等多平台。 |
 
 ## 社媒运营 MCP 服务器
 
