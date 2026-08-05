@@ -65,6 +65,7 @@
 |------|------|--------|-------|------|
 | [CapCut Mate API](https://github.com/Hommy-master/capcut-mate) | API / Skills | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Hommy-master/capcut-mate?style=flat-square) | 开源剪映/CapCut 自动化工具，向智能体提供草稿编辑、素材插入、特效、字幕和导出等视频处理能力。 |
 | [capcut-agent](https://github.com/qingpingwang/capcut-agent) | Claude Code / MCP | ✅ 直接可用 | ![](https://img.shields.io/github/stars/qingpingwang/capcut-agent?style=flat-square) | 基于 LangGraph + Flask 的剪映 AI 助手，提供对话式剪辑、素材库管理、SQLite 持久化和 FastMCP 工具接入，适合本地化视频制作工作流。 |
+| [hotclip](https://github.com/xixihhhh/hotclip) | — | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square) | 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频——AI 找高光金句、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts. No ... |
 
 ---
 
