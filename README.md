@@ -42,6 +42,7 @@
 | [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/luyike221/xiaohongshu-mcp-python?style=flat-square) | 小红书内容自动化发布 MCP Server，支持图文/视频发布、笔记管理、数据分析、定时发布，为 AI 客户端提供完整的小红书运营能力。 |
 | [yutu](https://github.com/eat-pray-ai/yutu) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square) | YouTube 频道自动驾驶 AI 工具包 — 自动选题、脚本生成、视频制作、SEO 优化、数据分析，一站式 YouTube 运营。 |
 | [chubbyskills](https://github.com/chubbyguan/chubbyskills) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chubbyguan/chubbyskills?style=flat-square) | 中文内容摄入 Skill — 将抖音/B站/小红书/微信公众号/X/播客等内容一键转为个人知识库。支持本地 LLM，数据不出境。 |
+| [bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/XZXZZX-Ai/bilibili-mcp?style=flat-square) | Bilibili MCP工具(获取视频字幕和评论)                  A Bilibili MCP server for retrieving video subtitles and comments. |
 
 ## 内容创作技能
 
