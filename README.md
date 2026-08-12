@@ -33,6 +33,7 @@
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
 | [Postiz CLI](https://github.com/gitroomhq/postiz-agent) | Agent CLI / API | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/gitroomhq/postiz-agent?style=flat-square) | 面向 AI Agent 的社媒自动化 CLI，可连接 Postiz 执行排期、媒体上传和跨 28+ 平台发布；需自建服务并配置各平台凭证。 |
+| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw / Skill | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square) | OpenClaw 插件与打包 Skill，覆盖 X/Twitter 搜索、监控、媒体管理、粉丝导出、抽奖和审批后发帖，适合将公开 X 信号接入自媒体工作流。 |
 | [Douyin Upload MCP Skill](https://github.com/WJZ-P/douyin-upload-mcp-skill) | MCP Server / Skill | ✅ 直接可用 | ![](https://img.shields.io/github/stars/WJZ-P/douyin-upload-mcp-skill?style=flat-square) | 基于 CDP 的抖音创作者平台自动发布 MCP，支持视频/图文发布、扫码登录、短信校验、截图探测和浏览器托管，可被 OpenClaw 或任意 MCP 客户端调用。 |
 | [ShortVideo.AutoPublisher](https://github.com/dorisoy/ShortVideo.AutoPublisher) | — | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/dorisoy/ShortVideo.AutoPublisher?style=flat-square) | ShortVideo.AutoPublisher 是套实现，抖音，百家号，小红书，视频号，头条，等平台短视频自动发布的创作者工具。 |
 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square) | MCP for xiaohongshu.com |
