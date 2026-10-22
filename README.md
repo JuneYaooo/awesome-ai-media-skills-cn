@@ -44,6 +44,7 @@
 | [chubbyskills](https://github.com/chubbyguan/chubbyskills) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chubbyguan/chubbyskills?style=flat-square) | 中文内容摄入 Skill — 将抖音/B站/小红书/微信公众号/X/播客等内容一键转为个人知识库。支持本地 LLM，数据不出境。 |
 | [bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/XZXZZX-Ai/bilibili-mcp?style=flat-square) | Bilibili MCP工具(获取视频字幕和评论)                  A Bilibili MCP server for retrieving video subtitles and comments. |
 | [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
+| [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/everyinfra/everyinfra-agent-plugins?style=flat-square) | EveryInfra MCP server & agent plugin — scraper API for TikTok, Instagram, Amazon, YouTube, X/Twitter, Reddit, LinkedIn, Google SERP, Xiaohongshu (RedNote) & Douyin: 414 data APIs across 90 platform... |
 
 ## 内容创作技能
 
