@@ -45,6 +45,7 @@
 | [bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/XZXZZX-Ai/bilibili-mcp?style=flat-square) | Bilibili MCP工具(获取视频字幕和评论)                  A Bilibili MCP server for retrieving video subtitles and comments. |
 | [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | MCP Server | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square) | 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Po... |
 | [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/everyinfra/everyinfra-agent-plugins?style=flat-square) | EveryInfra MCP server & agent plugin — scraper API for TikTok, Instagram, Amazon, YouTube, X/Twitter, Reddit, LinkedIn, Google SERP, Xiaohongshu (RedNote) & Douyin: 414 data APIs across 90 platform... |
+| [StarryVT](https://github.com/Ker0el/StarryVT) | MCP Server | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Ker0el/StarryVT?style=flat-square) | 星译 StarryVT：现代化的 AI 视频翻译工具，视频转中文字幕 + AI 中文配音 + 烧录成片，支持 MCP 让 AI Agent 直接调用（Windows）。翻译和配音用你自己的 API Key，源码以 GPL-3.0 开源。AI video translation with subtitles and Chinese dubbing; your video never leave... |
 
 ## 内容创作技能
 
