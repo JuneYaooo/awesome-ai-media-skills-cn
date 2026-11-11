@@ -28,6 +28,7 @@
 | [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/A-cat-with-carrots/OnlyShot?style=flat-square) | AI 短剧工业流水线 Claude Skill — 一句话生成剧本/分镜/分镜图/视频/剪辑五步完成，可产出发布到抖音红果的完整短剧。 |
 | [capsule-cinema](https://github.com/JuneYaooo/capsule-cinema) | Claude Code / Codex / OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/capsule-cinema?style=flat-square) | 可复用的 AI 视频生产配方集 — 分镜设计、视频生成、剪辑、字幕和质检的 Agent 工作流模板，支持 Codex / Claude Code / OpenClaw 等多平台。 |
 | [beatra-skills](https://github.com/beatra-ai/beatra-skills) | OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/beatra-ai/beatra-skills?style=flat-square) | Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking head video, AI music, and video generation skills that render on Beatra. 图片生成 ·... |
+| [HoneyVid skills](https://github.com/HoneyVid/skills) | Claude Code / Codex / Cursor / MCP | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/HoneyVid/skills?style=flat-square) | HoneyVid 官方 Agent Skills（5 个，MIT）：一张照片把人、宠物或角色套进热门 AI 视频模板，或用 Kling / Veo / Seedance 生成视频和图片；通过 HoneyVid CLI 或远程 MCP（https://honeyvid.ai/mcp）调用，需 HoneyVid 账号与付费积分。 |
 
 ## 社媒运营 MCP 服务器
 
